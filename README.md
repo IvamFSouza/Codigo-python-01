@@ -1,2 +1,2 @@
-# Codigo python 01
+# Codigo python 02
  Segundo código phyton de aula.
